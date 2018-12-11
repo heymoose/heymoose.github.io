@@ -38,7 +38,9 @@ but ultimately I was never going to be able to put in the time that would have b
 to build and maintain it.  I let the idea fall by the wayside for a bit.  I worked on other
 projects and learned new things.  And all the while I wished I had some place to talk
 about the things I was learning.  Not only because writing about a thing helps me retain
-the information, but because it's useful to have for future employment opportunities.
+the information, but because I think it's useful to have a central place to organize
+my thoughts about a given subject.  That way, if I need to look back for my own reference, or
+to show to someone else, the information is all there.
 
 It was about this time that I learned about Jekyll and GitHub Pages.  [Jekyll](https://jekyllrb.com)
 is a site generator that creates static sites using mostly just Markdown, Liquid, HTML, and CSS.  No
