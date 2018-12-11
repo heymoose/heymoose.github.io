@@ -5,7 +5,7 @@ subtitle: My personal website built with Jekyll and hosted on GitHub pages
 show-avatar: false
 social-share: false
 image: /img/2018-12-11-personal-site-with-jekyll/longs_peak_thumb.jpg
-bigimg: /img/2018-12-11-personal-site-with-jekyll/wide_longs_peak_12_09_2018.jpg
+bigimg: /img/2018-12-11-personal-site-with-jekyll/wide_longs_peak_2.jpg
 ---
 
 Welcome to my little corner of the internet.  I've been meaning to get a personal website
