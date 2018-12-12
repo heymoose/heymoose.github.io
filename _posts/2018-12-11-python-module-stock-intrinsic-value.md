@@ -20,7 +20,12 @@ calculate the rough intrinsic value of each stock, in other words, a rough calcu
 of how much the business is worth based on it's financial data.  You can read more about
 intrinsic value and how it is calculated on [Joshua Kennon](https://www.joshuakennon.com/benjamin-graham-intrinsic-value-formula/)'s blog, which is the best description of it I know of.
 
-![Screenshot of Google spreadsheet for stock intrinsic value](/img/2018-12-11-python-module-stock-intrinsic-value/google-spreadsheet-iv.png)
+<div class="polaroid">
+    <img class="cardimg" src="/img/2018-12-11-python-module-stock-intrinsic-value/google-spreadsheet-iv.png" alt="Screenshot of Google spreadsheet for stock intrinsic value">
+    <div class="cardimg-label">
+        <p><i>My Google spreadsheet for calculating stock intrinsic value</i></p>
+    </div>
+</div>
 
 Alas, the Google Finance API was deprecated years ago and is no longer reliable.  My spreadsheet
 is still limping along, but the data is no longer reliable, and I can longer count on it working
@@ -83,7 +88,12 @@ I'm also using the tabulate package in order to display the information in an or
 in the terminal window.  Provided an input.txt file with a bunch of tickers, the output looks
 like this:
 
-![Screenshot of intrinsify results](/img/2018-12-11-python-module-stock-intrinsic-value/intrinsify-result.png)
+<div class="polaroid">
+    <img class="cardimg" src="/img/2018-12-11-python-module-stock-intrinsic-value/intrinsify-result.png" alt="Screenshot of intrinsify results">
+    <div class="cardimg-label">
+        <p><i>The results in the terminal after running intrinsify on a list of stocks</i></p>
+    </div>
+</div>
 
 One the right side, you can see the Intrinsic Value and Normalized IV columns.  Those are the
 absolute intrinsic value calculated per share, and the normalized value gets a value where

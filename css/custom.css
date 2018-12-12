@@ -1,0 +1,17 @@
+div.polaroid {
+    width: 100%;
+    background-color: #fdfdfd;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img.cardimg {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+div.cardimg-label {
+    text-align: center;
+    padding: 10px 20px;
+}
