@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Projects
-subtitle: Stuff I've worked on
+subtitle: A short list of projects that I've worked on
 ---
-
-A short list of projects that I'm most proud of, separated by previous employers and hobby work.
 
 ## Sonoma Partners
 ---
