@@ -4,6 +4,12 @@ title: Projects
 subtitle: A short list of projects that I've worked on
 ---
 
+## Recent Projects
+---
+- [Intrinsify](https://github.com/heymoose/intrinsify) - A python command line tool for pulling stock data and calculating the intrinsic values.  Read more about it on the [blog post]({% post_url 2018-12-11-python-module-stock-intrinsic-value %}).
+
+- [Intrinsify-React](https://intrinsify-63630.firebaseapp.com) - The python command line tool reworked as a web app using React.  Check out the code at my [Github repo](https://github.com/heymoose/intrinsify-react).
+
 ## Sonoma Partners
 ---
 Much of the work I did at Sonoma was private, and not easily shareable anyway, but I did work on some
@@ -41,9 +47,3 @@ Basketball game installed at the Harry Caray sports museum in Chicago.  User pla
 ### Accenture Reactive Wall
 {% include youtube.html id="ffZhVnV_57I" %}
 Two particle wall modes: a passive mode where pictures float by and react to users walking by in the area, and active mode where particles shoot from your hands.  Written in C++ using openFrameworks.
-
-## Personal Projects
----
-- [Intrinsify](https://github.com/heymoose/intrinsify) - A python command line tool for pulling stock data and calculating the intrinsic values.  Read more about it on the [blog post]({% post_url 2018-12-11-python-module-stock-intrinsic-value %}).
-
-- [Intrinsify-React](https://intrinsify-63630.firebaseapp.com) - The python command line tool reworked as a web app using React.  Check out the code at my [Github repo](https://github.com/heymoose/intrinsify-react).
