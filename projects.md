@@ -45,3 +45,5 @@ Two particle wall modes: a passive mode where pictures float by and react to use
 ## Personal Projects
 ---
 - [Intrinsify](https://github.com/heymoose/intrinsify) - A python command line tool for pulling stock data and calculating the intrinsic values.  Read more about it on the [blog post]({% post_url 2018-12-11-python-module-stock-intrinsic-value %}).
+
+- [Intrinsify-React](https://intrinsify-63630.firebaseapp.com) - The python command line tool reworked as a web app using React.  Check out the code at my [Github repo](https://github.com/heymoose/intrinsify-react).
